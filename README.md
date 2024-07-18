@@ -10,20 +10,8 @@ The **Pump.fun Smart Contract** is an innovative platform  designed to allow use
 - **Spam Detection**: Automatically catch and handle spammers making transactions to the OpenBook market.
 - **Discord Integration**: Receive real-time notifications on Discord via webhooks.
 
-### Installation
+# Contact
+If you have any questions or want more customized app for specific use cases, please feel free to contact me to below contacts.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/dappsol/pump.fun-smart-contract.git
-   cd pump.fun-smart-contract
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-
-### Please fork to use it and follow me on github.
-
-### If you want more customized app, please contact [@poseiman](https://t.me/poseiman) in Telegram and [.solbotdev](https://discordapp.com/users/1074553493974691840) in Discord
+- E-Mail: adamglab0731.pl@gmail.com
+- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
