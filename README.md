@@ -1,35 +1,34 @@
-# 💊 PumpFun Solana Smart Contract  
+# 💊 PumpFun Solana Smart Contract
 
-The **Pump.fun Smart Contract Fork** is a cutting-edge platform designed to empower users in creating and managing tokens, markets, and liquidity pools on **Raydium/Meteora**. This enhanced version extends beyond the core features of Pump.fun, offering advanced functionalities for **token authority management, custom token properties, whitelisting, and liquidity control**.  
+The **Pump.fun Smart Contract forking** is an innovative platform  designed to allow users to create tokens, markets, and pools on Raydium/Meteora. This comprehensive project offers not only same features of pump.fun but also more for managing token authorities, customizing token properties, white list and handling liquidity pools with advanced functionalities.
 
-## ✨ Key Features  
+### ✨ Features
 
-- **Token Management**: Create fully customizable tokens (name, symbol, image) with optional revocable token authority.  
-- **Market Creation**: Seamless market setup for token trading.  
-- **Pool Management**: Add/remove liquidity on Raydium, manage SPL token burns efficiently.  
-- **Dashboard**: Comprehensive token listings with real-time insights.  
-- **Discord Integration**: Instant notifications via **Discord webhooks**.  
-- **Fee Handling**: Integrated fee structure for contract usage.  
+- **Token Management**: Create tokens with customizable names, symbols, and images. Revoke token authority as needed.
+- **Market Creation**: Set up markets for trading tokens with ease.
+- **Pool Management**: Add and remove liquidity in Raydium pools. Burn SPL tokens efficiently.
+- **Dashboard**: Display detail information of token listed on pump.fun.
+- **Discord Integration**: Receive real-time notifications on Discord via webhooks.
+- **Fee**: Handling gather fee from user who use our smart contract.
+- 🚀 **Migration to Meteora/Raydium** 🚀: Migration to Meteora/Raydium using CPI call.
+- 🚀 **Whiltelist** 🚀: Add user to whitelist to add more permission to each user.
+- 🚀 **Spam Detection** 🚀: Automatically catch and handle spammers making transactions to the OpenBook market.
 
----
+## 📋 Demo
 
-## 🚀 Latest Enhancements  
+### I have shared my previous tx made on this smart contract
 
-### 🔄 **Meteora/Raydium Migration**  
-Effortlessly migrate liquidity to **Meteora or Raydium** using **Cross-Program Invocation (CPI) calls**. This ensures smooth interoperability and efficient asset movement between **Solana's top liquidity platforms**.  
+#### Main Wallet: [en1omyBPyReHeUQfRvFqPtDPrzwQWSuKQMRctXLFmwh](https://solscan.io/account/en1omyBPyReHeUQfRvFqPtDPrzwQWSuKQMRctXLFmwh?cluster=devnet)
+#### Create Global PDA: [LhMyuC3uQbN3rxMwRHFZ17o6VGKtuyztesjpHuG3JnZqEFpRfRnnDBSwPCuXJnPkVfuLMGXEEaUd51m7E1zM99m](https://solscan.io/tx/LhMyuC3uQbN3rxMwRHFZ17o6VGKtuyztesjpHuG3JnZqEFpRfRnnDBSwPCuXJnPkVfuLMGXEEaUd51m7E1zM99m?cluster=devnet)
+#### Create BondingCurve: [48J3SsHG1urNR8BmCPKwX2gdq6SX7bkNRdXYjKT45npVTYdgftMbaJMyTBniMCzJa6BnPkmcip8pd4aTyXEnWoGj](https://solscan.io/tx/48J3SsHG1urNR8BmCPKwX2gdq6SX7bkNRdXYjKT45npVTYdgftMbaJMyTBniMCzJa6BnPkmcip8pd4aTyXEnWoGj?cluster=devnet)
+#### Add whitelist: [7Z9Fz18Eo99MAupb7tdSuMiYcz3pqvJdnCqKhWQuGrFtKcBKoxWJFKrk6H8Zqy5NvxgvZaukf2BgN4cvKTGhyju](https://solscan.io/tx/7Z9Fz18Eo99MAupb7tdSuMiYcz3pqvJdnCqKhWQuGrFtKcBKoxWJFKrk6H8Zqy5NvxgvZaukf2BgN4cvKTGhyju?cluster=devnet)
+#### Migrate meteora: [524N14xCr75EiWP96xeQ6hFUxE8ewspjCbWUxqRZnCZfdGgCLVZDFuvxAQGka6rtArgKFDcPi2JYVU9JowyZvC8Z](https://solscan.io/tx/524N14xCr75EiWP96xeQ6hFUxE8ewspjCbWUxqRZnCZfdGgCLVZDFuvxAQGka6rtArgKFDcPi2JYVU9JowyZvC8Z?cluster=devnet)
 
-### ✅ **Whitelisting System**  
-Implement **granular access control** by **whitelisting users** with specific permissions. This feature allows project owners to define different levels of authority, providing enhanced **security and flexibility** in token and pool management.  
 
-### ⚠️ **Spam Detection & Prevention**  
-A **smart spam detection system** automatically identifies and handles malicious activities in **OpenBook markets**. This ensures a fair and **secure trading environment** by mitigating spam transactions and market manipulation.  
+## 📞 Contact Info
 
-## 📩 Contact  
-For inquiries, custom integrations, or tailored solutions, reach out via:  
+### Telegram: [enlomy](https://t.me/enlomy)
 
-📧 **E-Mail**: [adamglab0731.pl@gmail.com](mailto:adamglab0731.pl@gmail.com)  
-💬 **Telegram**: [@bettyjk_0915](https://t.me/bettyjk_0915)  
+## 🍵 Tip
 
-### ⭐ **Support the Project**  
-If you find this project useful, consider **starring** the repository to show your support! 🌟  
-
+### If you are intereseted in my projects, please 🔗fork or give me ⭐star
