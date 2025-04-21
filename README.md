@@ -22,6 +22,14 @@ Implement **granular access control** by **whitelisting users** with specific pe
 ### ⚠️ **Spam Detection & Prevention**  
 A **smart spam detection system** automatically identifies and handles malicious activities in **OpenBook markets**. This ensures a fair and **secure trading environment** by mitigating spam transactions and market manipulation.  
 
+## Proof of Work
+[Devnet Contract Address](https://solscan.io/account/4HPScSCMU53uTorshv5dGjUQLw9cKJy3MPWFAKHG5ywc?cluster=devnet)
+- [Config](https://solscan.io/tx/5uxFQTEnipj4PLsLSeoo1fdc3c8TPP3FCt3D4vTrBNcB2d2uFwLiSD1ssZ9TRaaJWX8giPx86tZGwKWiEFhzNCp4?cluster=custom&customUrl=https://api.devnet.solana.com)
+- [Pool Creation](https://solscan.io/tx/5rkgtsM7kE9Ra5yEjgxUr8rKnq7S7fwfCQZTMXGuXEX9364FEewycFhegaCqdDo7cVsgomsrZ7F82TUSjr2kKikf?cluster=custom&customUrl=https://api.devnet.solana.com)
+- [Trading(including fee)](https://solscan.io/tx/5C4hREN4e8YJvGHxSLMEjMgH99fsA3Q8zkenUEko9dN1J5qbzgEPCpGKxjLJZiZ2oMRQxmjqx54afrpZyWyEQiRo?cluster=custom&customUrl=https://api.devnet.solana.com)
+- [Migration to Meteora](https://solscan.io/tx/3G43Gty6JwmGjyToKoeKAQLwuC42AXrCw7gp2KFnZrdahEepRnU4ZoKtN6wfjoxH9FnFrPToiPbMmDoeAWcXodQF?cluster=devnet)
+- [LP Lock](https://solscan.io/tx/jeMaznRax6w37GDco581AnZnU6sqAinwRiHD5nBC19fpNUzUzKvPwCey7aynHUydzMXV7kDdHiBY52eCcETeoyV?cluster=devnet)
+
 ## 📩 Contact  
 For inquiries, custom integrations, or tailored solutions, reach out via:  
 
